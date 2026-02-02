@@ -1,4 +1,4 @@
-package Hoja2;
+
 public interface IStack<T> {
     void push(T item); //agrega valor a la pila
     T pop();           //quita y devuelve ultimo valor agregado
